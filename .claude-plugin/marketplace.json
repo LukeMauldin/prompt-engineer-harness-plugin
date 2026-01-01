@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "prompt-engineer-harness",
-      "source": ".",
+      "source": "./",
       "description": "Expert prompt engineering skill for Claude, GPT, and Gemini in agentic harnesses"
     }
   ]
