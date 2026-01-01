@@ -1,0 +1,13 @@
+{
+  "name": "prompt-engineer-harness-marketplace",
+  "owner": {
+    "name": "Luke Mauldin"
+  },
+  "plugins": [
+    {
+      "name": "prompt-engineer-harness",
+      "source": ".",
+      "description": "Expert prompt engineering skill for Claude, GPT, and Gemini in agentic harnesses"
+    }
+  ]
+}
